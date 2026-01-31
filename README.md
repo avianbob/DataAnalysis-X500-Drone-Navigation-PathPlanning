@@ -30,6 +30,7 @@ The visualization layer. Using **Seaborn** and **Matplotlib**, I generated scatt
 
 ### /Model
 The final stage of the pipeline. I built a predictive script that calculates an **Efficiency Ratio** based on Distance vs. Duration. The model flags missions as "Optimal," "Monitor," or "Investigate," creating a roadmap for improving future flight paths.
+
 ---
 
 ## How to Run the Analysis
