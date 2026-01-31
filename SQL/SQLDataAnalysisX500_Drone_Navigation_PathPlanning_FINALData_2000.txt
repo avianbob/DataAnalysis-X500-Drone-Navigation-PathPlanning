@@ -1,0 +1,18 @@
+--- PATH PLANNING PERFORMANCE (DEFECT RATE) ---
+Operator_ID  Total_Flights  Total_Defects  Defect_Percentage
+     OP-007            193             28              14.51
+     OP-006            191             27              14.14
+     OP-008            200             28              14.00
+     OP-001            224             27              12.05
+     OP-004            181             20              11.05
+     OP-005            208             22              10.58
+     OP-003            205             21              10.24
+     OP-010            208             20               9.62
+     OP-009            194             17               8.76
+     OP-002            196             15               7.65
+
+--- SYSTEM BOTTLENECKS ---
+            Status  Occurrence  Avg_Payload
+GCS_Disconnect_RTL          33         1.30
+           Success        1775         1.25
+  Warning_HighWind         192         1.27
